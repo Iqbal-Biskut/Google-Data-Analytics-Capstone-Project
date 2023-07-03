@@ -20,4 +20,4 @@ This is the Capstone Project for my Google Data Analytics Professional Certifica
 - After exploration and cleaning in Microsoft SQL Server, I split the CSV file into five smaller files according to the respective financial quarters
 - Reformatted the files to XLSX and analyzed using Pivot Tables in Microsoft Excel
 - Finally I created visualizations in Tableau which can be found [here](https://public.tableau.com/app/profile/iqbal.halid/viz/GoogleCapstoneProject_16874171849530/Sheet6)
-- The whole completed project, where I explained my thought process and techniques used is presented here
+- The whole completed project, where I explained my thought process and techniques used is presented [here](https://miqbalhalid.wixsite.com/iqbalhalid/post/google-capstone-project-car-sales-data)
